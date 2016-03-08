@@ -1,9 +1,6 @@
 {
-    "name": "jaaprood/php-resque-plugin",
+    "name": "zigo928/php-resque-plugin",
     "description": "A plugin architecture for php-resque",
-    "require": {
-        "chrisboulton/php-resque": "dev-master"
-    },
     "license": "MIT",
     "authors": [
         {
